@@ -22,8 +22,8 @@
 6. Click on "New" on the menubar and click on "Python 3 (ipykernel)" to create a Python file
 
 ## Third Phase
-## A new tab will open. The web page editor is separated into cells(which accepts codes for input)
-## Import Libraries
+### A new tab will open. The web page editor is separated into cells(which accepts codes for input)
+### Import Libraries
 ```python
 import numpy as np
 import pandas as pd
