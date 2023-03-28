@@ -15,10 +15,10 @@
 2. Click on the "Environments" tab on the left-hand side of the window and create a new environment
     - Tip: It is recommended to create a new environment for a new project to help with flexibility,
     reproducibility, and isolation from the base environment
-3. Download all required packages on the right-hand side of the window.  (pandas, numpy, seaborn, matplotlib)
+3. Download all required packages for the project on the right-hand side of the window.  (pandas, numpy, seaborn, matplotlib)
 4. Click on "Home" and install and launch "Jupyter Notebook"
     - It will open your default web browser with a page displaying the directory of your PC(localhost)
-5. Create a new folder for your project and copy the iris.data file into that folder
+5. Locate the directory (folder) you created with the iris.data
 6. Click on "New" on the menubar and click on "Python 3 (ipykernel)" to create a Python file
 
 ## Third Phase
@@ -46,4 +46,5 @@ plt.show()
 
 #For more matplotlib and seaborn plots;
 #Visit: https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
+
 ##Hope you found this helpful :)
