@@ -1,6 +1,7 @@
 # Project Name: Anaconda Installation and Working with Iris Data
 
-# Created By Jed 27/03/2023 @ 2:00AM
+# Created By Jed 27/03/2023 @ 2:00AM 
+
 
 ## First Phase
 1. Download and install Anaconda distribution from https://www.anaconda.com/products/distribution
@@ -43,7 +44,6 @@ plt.show()
 
 # Click on run to generate graph output
 
-## Generation and interpretion of the graph
-#After Scatterplot is executed, he graph is generated. The scatterplot shows the relationship between petal length and width, with different colors indicating different classes of flower. We can see a strong positive correlation between petal length and width, and that Iris setosa has the smallest petals while Iris virginica has the largest.
-
+#For more matplotlib and seaborn plots;
+#Visit: https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
 ##Hope you found this helpful :)
